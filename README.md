@@ -30,7 +30,7 @@ code .
 ## Usage
 The webpage is very simplistic in the way it is designed to be used and navigated, all of the information is accessable on one page by clicking the links displayed
 in the header, example below.
-![useing generator]([assets\img\Capturepw2.PNG](https://github.com/Rachael-Stead/Randomised-Strong-Password-Generator/blob/main/assets/img/Capturepw2.PNG))
+![useing generator]([assets\img\Capturepw2.PNG])
 By clicking the "search engine optimization" link it takes you to a section of the webpage that is linked to that ID tag.
 
 ## Contributing
