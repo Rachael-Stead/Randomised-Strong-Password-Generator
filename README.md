@@ -4,11 +4,8 @@ This project was designed to allow its users to be able to generate a randomised
 The project aims to benifit users by randomising a set of characters, letters and numbers through the following additions <br>
 <br>
 * a variety of arrays for the generator to utilise
-* Webpage name is featured in the tab/toolbar in browsers
-* ability utlize the bookmark feature
-* Enhanced accessibility features for SEO by using "veiwport","name" & "description" links in the head tag 
-* Use of alt text for images making it more accessable for those with screen readers
-* cleaner CSS and HTML code templates
+* statement loops that ensure the user has acknowleged the criteria for a unique password
+* Randomised password generation for user safety
 
 ## Webpage Hyperlink and File Installation
 
@@ -33,7 +30,7 @@ code .
 ## Usage
 The webpage is very simplistic in the way it is designed to be used and navigated, all of the information is accessable on one page by clicking the links displayed
 in the header, example below.
-![useing generator](assets\img\Capturepw2.PNG)
+![useing generator]([assets\img\Capturepw2.PNG](https://github.com/Rachael-Stead/Randomised-Strong-Password-Generator/blob/main/assets/img/Capturepw2.PNG))
 By clicking the "search engine optimization" link it takes you to a section of the webpage that is linked to that ID tag.
 
 ## Contributing
