@@ -23,15 +23,13 @@ cd [ new directory name]
 ```
 *Pull the code from Github and open to edit/veiw*
 ```bash
-git pull git@github.com:Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website.git
-cd Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website
+git pull git@github.com:Rachael-Stead/Randomised-Strong-Password-Generator.git
 code .
 ```
 ## Usage
-The webpage is very simplistic in the way it is designed to be used and navigated, all of the information is accessable on one page by clicking the links displayed
-in the header, example below.
-![useing generator]([assets\img\Capturepw2.PNG])
-By clicking the "search engine optimization" link it takes you to a section of the webpage that is linked to that ID tag.
+The webpage is very intutive in the way its designed, you click the generate password button which will then promt you to confim the criteria requirements. if criteria is not met the user will receive a notification and be asked again. at the end of the selection criteria the password will be developed and displayed on screen so the user can then copy and paste it.
+![screen_shot_password_gen](https://github.com/Rachael-Stead/Randomised-Strong-Password-Generator/blob/main/assets/img/Capturepw2.PNG)
+
 
 ## Contributing
 
