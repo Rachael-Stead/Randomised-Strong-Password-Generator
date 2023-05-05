@@ -9,7 +9,7 @@ The project aims to benifit users by randomising a set of characters, letters an
 
 ## Webpage Hyperlink and File Installation
 
-[ClickHere](https://rachael-stead.github.io/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website) for full file details and attachments, you can right click and select "Open Link in New Browser" or Open in New Tab" depending on your preferences for veiwing.
+[ClickHere](https://rachael-stead.github.io/Randomised-Strong-Password-Generator/) You can right click and select "Open Link in New Browser" or Open in New Tab" depending on your preferences for veiwing.
 
 To Pull the reposity to veiw the code on your PC or Laptop you must have Visual Code installed. Read the following instructions on this [Link](https://code.visualstudio.com/download) to download Visual Studio Code to your desktop or device, if you have not already done so.
 
